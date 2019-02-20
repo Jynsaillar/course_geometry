@@ -1,4 +1,4 @@
-name: Course_Geometry
+name: course_geometry
 channels:
   - defaults
 dependencies:
