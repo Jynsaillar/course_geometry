@@ -12,5 +12,5 @@ Small tool for solving geometry course tasks.
 
 ## Disclaimer:
 
-This program is very simple, as in, it does not even have command line argument parsing. 
+This program is very simple, as in it does not even have command line argument parsing. 
 All changes are done directly in the code at the moment, this will be changed later when the need for it arrives.
